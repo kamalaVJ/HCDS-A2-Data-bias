@@ -38,6 +38,9 @@ Population data is copyrighted by the Population Reference Bureau (PRB)
 ORES API is subject to the copyright agreement CC-BY-SA 3.0 license 
 
 # Files
+* WPDS_2018_data.csv: csv file containing politician data	
+* page_data.csv: csv file containing wikipage data	
+* wp_wpds_politicians_by_country.csv: csv file containing final merged data with article scores from ORES API
 
 # Results
 
