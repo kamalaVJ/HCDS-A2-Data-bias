@@ -31,9 +31,15 @@ Start: Start-class article
 Stub: Stub-class article
 FA is the highest rating, while Stub is the lowest
 
+# License
+MIT License
+Wikipedia License: CC-BY-SA 4.0
+Population data is copyrighted by the Population Reference Bureau (PRB)
+ORES API is subject to the copyright agreement CC-BY-SA 3.0 license 
+
 # Results
 
-The results consists of six tables as follows:
+The results in the notebook consists of six tables as follows:
 * 10 highest-ranked countries in terms of number of politician articles as a proportion of country population
 Bottom 10 countries by coverage: 
 * 10 lowest-ranked countries in terms of number of politician articles as a proportion of country population
